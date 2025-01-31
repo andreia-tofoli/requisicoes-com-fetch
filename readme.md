@@ -26,7 +26,7 @@ O projeto contém os seguintes arquivos:
 4. A imagem da carta é exibida na tela.
 
 ## Demonstração
-![Demonstração do Projeto](imagem\animacao-baralho.gif)
+![Demonstração do Projeto](./imagem/animacao-baralho.gif)
 
 ## Conclusão
 Este projeto exemplifica o uso da API Fetch para fazer requisições assíncronas e manipular dados JSON. Ele pode ser expandido para incluir mais funcionalidades, como permitir ao usuário retirar várias cartas ou acompanhar o estado do baralho.
