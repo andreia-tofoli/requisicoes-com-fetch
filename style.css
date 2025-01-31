@@ -1,0 +1,23 @@
+body{
+    background-image: url(./imagem/fundo-de-mesa-de-poquer-na-cor-verde_47243-1094.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;     
+}
+
+#tirar-carta{
+    height: 5%;
+    border-radius: 10px;
+    border: none;
+    transition: 0.3s ease-in-out;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+#tirar-carta:hover {
+    box-shadow: 6px 6px 15px rgba(0, 0, 0, 0.7); 
+}
